@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 -->
 ## 🎯 Featured Project
 ## 🛠️ Tech Stack:
+**Languages:** Python, Java, C++
+**Web Dev:** JavaScript, HTML/CSS
+**Data Science:** Pandas, NumPy, scikit-learn, TensorFlow
+**Tools:** Jupyter Notebooks, Google Colab, VS Code, GitHub
 ## 💬 Let's Connect:
 [Email](mailto:rnasta3@pride.hofstra.edu)  
 [LinkedIn](https://www.linkedin.com/in/rosemarie-nasta/)
