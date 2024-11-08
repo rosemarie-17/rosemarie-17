@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 **Data Science:** Pandas, NumPy, scikit-learn, TensorFlow  
 **Tools:** Jupyter Notebooks, Google Colab, VS Code, GitHub  
 ## 📊 GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rosemarie-17&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosemarie-17&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rosemarie-17&layout=compact&theme=dark)
 ## 💬 Let's Connect:
 [Email](mailto:rnasta3@pride.hofstra.edu)  
 [LinkedIn](https://www.linkedin.com/in/rosemarie-nasta/)
