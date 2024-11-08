@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🎯 Featured Project
+## 🛠️ Tech Stack:
+## 💬 Let's Connect:
+[Email](mailto:rnasta3@pride.hofstra.edu)
+[LinkedIn](https://www.linkedin.com/in/rosemarie-nasta/)
