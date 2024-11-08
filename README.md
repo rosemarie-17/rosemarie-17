@@ -3,6 +3,9 @@
 I'm an aspiring Machine Learning Engineer and currently a junior studying Computer Science at Hofstra. I recently completed the Machine Learning Foundations course through Break Through Tech, which deepened my understanding of key algorithms and methodologies in the field. I'm passionate about applying this knowledge to real-world problems, from NLP to data visualization, and continuously building advanced machine learning and data science skills.
 
 ## 🎯 Featured Project: [FlavorGenius: Unleashing AI's Mastery in Flavor Discovery](https://github.com/rosemarie-17/FlavorGenius)
+**What We Did:** Using Amazon review data, we filtered on various keywords and examined customer feedback, identifying popular products and recurring themes in customer satisfaction and dissatisfaction.
+**Tools:** Python, pandas, numpy, matplotlib, seaborn
+**Results:** Our analysis provided insights into top-rated products for each keyword, highlight key factors affecting customer satisfaction.
 ## 🛠️ Tech Stack:
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
