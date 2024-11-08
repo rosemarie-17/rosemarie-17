@@ -30,7 +30,7 @@ A few other projects I've worked on:
 ## 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosemarie-17&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rosemarie-17&layout=compact&theme=dark)
-## 💬 Let's Connect!
+## 📱 Let's Connect!
 <p align="left">
   <a href="https://linkedin.com/in/rosemarie-nasta" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
