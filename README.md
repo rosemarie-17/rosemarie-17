@@ -4,8 +4,8 @@ I'm an aspiring Machine Learning Engineer and currently a junior studying Comput
 
 ## 🎯 Featured Project: [FlavorGenius: Unleashing AI's Mastery in Flavor Discovery](https://github.com/rosemarie-17/FlavorGenius)
 **What We Did:** Using Amazon review data, we filtered by various keywords and examined customer feedback, identifying popular products and recurring themes in customer satisfaction and dissatisfaction.  
-**Tools:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-**Results:** Our analysis provided insights into top-rated products for each keyword, highlighting key factors affecting customer satisfaction.
+**Results:** Our analysis provided insights into top-rated products for each keyword, highlighting key factors affecting customer satisfaction.  
+**Tools:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ## 🛠️ Tech Stack:
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
