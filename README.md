@@ -4,10 +4,9 @@ I'm an aspiring Machine Learning Engineer and currently a junior studying Comput
 
 ## 🎯 Featured Project:
 ## 🛠️ Tech Stack:
-**Languages:** Python, Java, C++  
-**Web Dev:** JavaScript, HTML/CSS  
-**Data Science:** Pandas, NumPy, scikit-learn, TensorFlow  
-**Tools:** Jupyter Notebooks, Google Colab, VS Code, GitHub  
+### Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ## 🚀 Projects:
 A few other projects I've worked on:
 ## 📊 GitHub Stats:
