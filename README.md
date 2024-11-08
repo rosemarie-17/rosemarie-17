@@ -1,5 +1,7 @@
 # Hi there, I'm Rosemarie! 👋
 
+I'm an aspiring Machine Learning Engineer and currently a junior studying Computer Science at Hofstra. I recently completed the Machine Learning Foundations course through Break Through Tech, which deepened my understanding of key algorithms and methodologies in the field. I'm passionate about applying this knowledge to real-world problems, from NLP to data visualization, and continuously building skills in advanced machine learning and data science.
+
 <!--
 **rosemarie-17/rosemarie-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+(---)
+## 🎯 Featured Project
