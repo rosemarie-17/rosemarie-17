@@ -2,7 +2,7 @@
 
 I'm an aspiring Machine Learning Engineer and currently a junior studying Computer Science at Hofstra. I recently completed the Machine Learning Foundations course through Break Through Tech, which deepened my understanding of key algorithms and methodologies in the field. I'm passionate about applying this knowledge to real-world problems, from NLP to data visualization, and continuously building advanced machine learning and data science skills.
 
-## 🎯 Featured Project:
+## 🎯 Featured Project: [FlavorGenius: Unleashing AI's Mastery in Flavor Discovery](https://github.com/rosemarie-17/FlavorGenius)
 ## 🛠️ Tech Stack:
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
