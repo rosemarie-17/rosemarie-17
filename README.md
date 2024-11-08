@@ -26,6 +26,13 @@ A few other projects I've worked on:
 ## 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosemarie-17&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rosemarie-17&layout=compact&theme=dark)
-## 💬 Let's Connect:
-[Email](mailto:rnasta3@pride.hofstra.edu)  
-[LinkedIn](https://www.linkedin.com/in/rosemarie-nasta/)
+## 💬 Let's Connect!
+<p align="left">
+  <a href="https://linkedin.com/in/rosemarie-nasta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rnasta3@pride.hofstra.edu" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
