@@ -30,11 +30,11 @@ I'm an aspiring Machine Learning Engineer and currently a junior studying Comput
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ## 🚀 Projects:
 A few other projects I've worked on:  
-1. [My Cornell Portfolio](https://github.com/rosemarie-17/My-Cornell-Portfolio)
-   A portfolio of the projects done while in eCornell's Break Through Tech program.
-2. [Personal Portfolio Tracker](https://github.com/rosemarie-17/stock-tracker)
-   This project utilizes Python, Dash, Plotly, and the Alpha Vantage API to provide users with real-time stock data, portfolio visualization, and performance analysis.
-3. [San Francisco Project](https://github.com/rosemarie-17/San-Francisco-Project)
+### 1. [My Cornell Portfolio](https://github.com/rosemarie-17/My-Cornell-Portfolio)  
+   A portfolio of the projects done while in eCornell's Break Through Tech program.  
+### 2. [Personal Portfolio Tracker](https://github.com/rosemarie-17/stock-tracker)  
+   This project utilizes Python, Dash, Plotly, and the Alpha Vantage API to provide users with real-time stock data, portfolio visualization, and performance analysis.  
+### 3. [San Francisco Project](https://github.com/rosemarie-17/San-Francisco-Project)  
    A command-line application that provides users with insights into restaurants in San Francisco.
 ## 📊 GitHub Stats:
 ![Rosemarie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosemarie-17&show_icons=true&theme=transparent)  
