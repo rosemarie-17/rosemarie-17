@@ -31,7 +31,7 @@ I'm an aspiring Machine Learning Engineer and currently a junior studying Comput
 ## 🚀 Projects:
 A few other projects I've worked on:
 ## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosemarie-17&show_icons=true&theme=transparent)  
+![Rosemarie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosemarie-17&show_icons=true&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rosemarie-17&layout=compact&theme=transparent)
 ## 📱 Let's Connect!
 <p align="left">
