@@ -1,8 +1,11 @@
-# 👋 Hi there, I'm Rosemarie!
+# 👋 Hi, I'm Rosemarie!
 
 I'm an aspiring Machine Learning Engineer and currently a junior studying Computer Science at Hofstra University. I recently completed the Machine Learning Foundations course through Break Through Tech, which deepened my understanding of key algorithms and methodologies in the field. I'm passionate about applying this knowledge to real-world problems, from NLP to data visualization, and continuously building advanced machine learning and data science skills.
 
-## 🎯 Featured Project: [FlavorGenius: Unleashing AI's Mastery in Flavor Discovery](https://github.com/rosemarie-17/FlavorGenius)
+Outside of Computer Science classes, you can find me enjoying a coffee while listening to music or playing video games. Feel free to reach out about anything, CS-related or not! 😊
+
+## 🎯 Featured Project
+### [FlavorGenius: Unleashing AI's Mastery in Flavor Discovery](https://github.com/rosemarie-17/FlavorGenius)
 **What We Did:** Using Amazon review data, we filtered by various keywords and examined customer feedback, identifying popular products and recurring themes in customer satisfaction and dissatisfaction.  
 **Results:** Our analysis provided insights into top-rated products for each keyword, highlighting key factors affecting customer satisfaction.  
 
@@ -10,11 +13,10 @@ I'm an aspiring Machine Learning Engineer and currently a junior studying Comput
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-## 🛠️ Tech Stack:
+## 🛠️ Tech Stack
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,15 +30,15 @@ I'm an aspiring Machine Learning Engineer and currently a junior studying Comput
 ![Google Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-## 🚀 Projects:
+## 🚀 Projects
 A few other projects I've worked on:  
-### 1. [My Cornell Portfolio](https://github.com/rosemarie-17/My-Cornell-Portfolio)  
+### 1. [Equitable AI for Dermatology](https://github.com/VIR-AJL-Team-BHA/Team-BHA)
+   This project was developed as part of a Kaggle competition that encourages students to explore how different ML models can classify skin conditions across diverse skin tones.
+### 2. [My Cornell Portfolio](https://github.com/rosemarie-17/My-Cornell-Portfolio)  
    A portfolio of the projects done while in eCornell's Break Through Tech program.  
-### 2. [Personal Portfolio Tracker](https://github.com/rosemarie-17/stock-tracker)  
+### 3. [Stock Portfolio Tracker](https://github.com/rosemarie-17/stock-tracker)  
    This project utilizes Python, Dash, Plotly, and the Alpha Vantage API to provide users with real-time stock data, portfolio visualization, and performance analysis.  
-### 3. [San Francisco Project](https://github.com/rosemarie-17/San-Francisco-Project)  
-   A command-line application that provides users with insights into restaurants in San Francisco.
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 ![Rosemarie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosemarie-17&show_icons=true&theme=transparent)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rosemarie-17&layout=compact&theme=transparent)
 ## 📱 Let's Connect!
@@ -45,7 +47,7 @@ A few other projects I've worked on:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
      <br />
   </a>
-  <a href="mailto:rnasta3@pride.hofstra.edu" target="_blank">
+  <a href="mailto:rosienasta@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
